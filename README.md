@@ -1,7 +1,7 @@
 
 # 📊 Collegedunia B.Sc. Colleges Scraper & Data Extractor
 
-![Collegedunia Scraper Banner](https://raw.githubusercontent.com/YOUR_USERNAME/collegedunia-project/main/assets/banner.png)
+![Collegedunia Scraper Banner](https://github.com/sonusinha1707/CollegeDunia_Web-Scraping/blob/main/college_dunia_banner%20.png)
 
 This project is a web scraping solution built using **Selenium** and **BeautifulSoup** to extract detailed data of **B.Sc. colleges listed on Collegedunia**. The data is automatically scrolled, parsed, and stored for further use in analytics, visualization, or machine learning applications.
 
