@@ -1,5 +1,5 @@
 
-# 📊 Collegedunia B.Sc. Colleges Scraper & Data Extractor
+# 📊 Collegedunia Colleges Scraper & Data Extractor
 
 ![Collegedunia Scraper Banner](https://github.com/sonusinha1707/CollegeDunia_Web-Scraping/blob/main/college_dunia_banner%20.png)
 
